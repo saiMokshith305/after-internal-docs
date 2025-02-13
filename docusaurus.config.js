@@ -2,13 +2,13 @@
 module.exports = {
     title: 'Company Documentation',
     tagline: 'Internal Docs for [Your Company Name]',
-    url: 'https://your-github-username.github.io',
-    baseUrl: '/company-docs/', // Adjust if using a subdirectory on GitHub Pages
+    url: 'https://saiMokshith305.github.io',
+    baseUrl: '/after-internal-docs/', // Adjust if using a subdirectory on GitHub Pages
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico', // Add your favicon under /static/img/ or adjust path
-    organizationName: 'your-github-username', // GitHub org/user name
-    projectName: 'company-docs', // Repository name
+    organizationName: 'saiMokshith305', // GitHub org/user name
+    projectName: 'after-internal-docs', // Repository name
     presets: [
       [
         '@docusaurus/preset-classic',
