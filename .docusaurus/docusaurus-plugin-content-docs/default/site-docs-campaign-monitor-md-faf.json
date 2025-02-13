@@ -1,0 +1,26 @@
+{
+  "id": "campaign-monitor",
+  "title": "Campaign Monitor",
+  "description": "[Add content for Campaign Monitor here]",
+  "source": "@site/docs/campaign-monitor.md",
+  "sourceDirName": ".",
+  "slug": "/campaign-monitor",
+  "permalink": "/company-docs/campaign-monitor",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "campaign-monitor",
+    "title": "Campaign Monitor"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Make",
+    "permalink": "/company-docs/make"
+  },
+  "next": {
+    "title": "How to Modify or Add Automations",
+    "permalink": "/company-docs/how-to-modify-or-add-automations"
+  }
+}

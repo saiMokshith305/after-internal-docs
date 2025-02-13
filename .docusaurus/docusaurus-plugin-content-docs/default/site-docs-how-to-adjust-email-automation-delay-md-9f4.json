@@ -1,0 +1,26 @@
+{
+  "id": "how-to-adjust-email-automation-delay",
+  "title": "How to Adjust the Email Automation Delay",
+  "description": "[Add instructions for adjusting the email automation delay here]",
+  "source": "@site/docs/how-to-adjust-email-automation-delay.md",
+  "sourceDirName": ".",
+  "slug": "/how-to-adjust-email-automation-delay",
+  "permalink": "/company-docs/how-to-adjust-email-automation-delay",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "how-to-adjust-email-automation-delay",
+    "title": "How to Adjust the Email Automation Delay"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Modify Collection Date",
+    "permalink": "/company-docs/how-to-modify-collection-date"
+  },
+  "next": {
+    "title": "Maintenance",
+    "permalink": "/company-docs/maintenance"
+  }
+}

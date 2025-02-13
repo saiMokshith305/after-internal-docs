@@ -1,0 +1,26 @@
+{
+  "id": "troubleshooting",
+  "title": "Troubleshooting",
+  "description": "[Add troubleshooting steps here]",
+  "source": "@site/docs/troubleshooting.md",
+  "sourceDirName": ".",
+  "slug": "/troubleshooting",
+  "permalink": "/company-docs/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "troubleshooting",
+    "title": "Troubleshooting"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Maintenance",
+    "permalink": "/company-docs/maintenance"
+  },
+  "next": {
+    "title": "Appendix",
+    "permalink": "/company-docs/appendix"
+  }
+}

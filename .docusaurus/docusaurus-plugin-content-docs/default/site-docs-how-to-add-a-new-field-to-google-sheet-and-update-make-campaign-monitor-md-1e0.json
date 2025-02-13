@@ -1,0 +1,26 @@
+{
+  "id": "how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor",
+  "title": "How to Add a New Field to Google Sheet and Update Make & Campaign Monitor",
+  "description": "[Add instructions for adding a new field and updating automations here]",
+  "source": "@site/docs/how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor.md",
+  "sourceDirName": ".",
+  "slug": "/how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor",
+  "permalink": "/company-docs/how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor",
+    "title": "How to Add a New Field to Google Sheet and Update Make & Campaign Monitor"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Modify or Add Automations",
+    "permalink": "/company-docs/how-to-modify-or-add-automations"
+  },
+  "next": {
+    "title": "How to Modify Email Automation",
+    "permalink": "/company-docs/how-to-modify-email-automation"
+  }
+}

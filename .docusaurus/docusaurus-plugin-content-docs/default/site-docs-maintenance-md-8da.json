@@ -1,0 +1,26 @@
+{
+  "id": "maintenance",
+  "title": "Maintenance",
+  "description": "[Add maintenance guidelines here]",
+  "source": "@site/docs/maintenance.md",
+  "sourceDirName": ".",
+  "slug": "/maintenance",
+  "permalink": "/company-docs/maintenance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "maintenance",
+    "title": "Maintenance"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Adjust the Email Automation Delay",
+    "permalink": "/company-docs/how-to-adjust-email-automation-delay"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/company-docs/troubleshooting"
+  }
+}

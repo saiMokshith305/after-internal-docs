@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/company-docs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/company-docs/",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "appendix",
+              "path": "/company-docs/appendix",
+              "sidebar": "docs"
+            },
+            {
+              "id": "campaign-monitor",
+              "path": "/company-docs/campaign-monitor",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor",
+              "path": "/company-docs/how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-to-adjust-email-automation-delay",
+              "path": "/company-docs/how-to-adjust-email-automation-delay",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-to-modify-collection-date",
+              "path": "/company-docs/how-to-modify-collection-date",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-to-modify-email-automation",
+              "path": "/company-docs/how-to-modify-email-automation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-to-modify-or-add-automations",
+              "path": "/company-docs/how-to-modify-or-add-automations",
+              "sidebar": "docs"
+            },
+            {
+              "id": "introduction",
+              "path": "/company-docs/introduction",
+              "sidebar": "docs"
+            },
+            {
+              "id": "maintenance",
+              "path": "/company-docs/maintenance",
+              "sidebar": "docs"
+            },
+            {
+              "id": "make",
+              "path": "/company-docs/make",
+              "sidebar": "docs"
+            },
+            {
+              "id": "squarespace",
+              "path": "/company-docs/squarespace",
+              "sidebar": "docs"
+            },
+            {
+              "id": "system-overview",
+              "path": "/company-docs/system-overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/company-docs/troubleshooting",
+              "sidebar": "docs"
+            },
+            {
+              "id": "workflow-and-automations",
+              "path": "/company-docs/workflow-and-automations",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/company-docs/introduction",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

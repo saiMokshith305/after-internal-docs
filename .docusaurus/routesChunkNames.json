@@ -1,0 +1,114 @@
+{
+  "/company-docs/__docusaurus/debug-9ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---company-docs-docusaurus-debugb-38-126"
+    }
+  },
+  "/company-docs/__docusaurus/debug/config-31c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---company-docs-docusaurus-debugb-38-126"
+    }
+  },
+  "/company-docs/__docusaurus/debug/content-0b8": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---company-docs-docusaurus-debugb-38-126"
+    },
+    "__props": "__props---company-docs-docusaurus-debug-contentaf-0-300"
+  },
+  "/company-docs/__docusaurus/debug/globalData-055": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---company-docs-docusaurus-debugb-38-126"
+    }
+  },
+  "/company-docs/__docusaurus/debug/metadata-c33": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---company-docs-docusaurus-debugb-38-126"
+    }
+  },
+  "/company-docs/__docusaurus/debug/registry-08b": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---company-docs-docusaurus-debugb-38-126"
+    }
+  },
+  "/company-docs/__docusaurus/debug/routes-f05": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---company-docs-docusaurus-debugb-38-126"
+    }
+  },
+  "/company-docs/-1c5": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---company-docs-aba-325"
+    }
+  },
+  "/company-docs/-906": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---company-docs-2-a-2-456"
+  },
+  "/company-docs/-d97": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/company-docs/appendix-5ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-appendixcdd-2bf"
+  },
+  "/company-docs/campaign-monitor-fb8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-campaign-monitorfaf-d26"
+  },
+  "/company-docs/how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor-f3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor-1-e-0-0e0"
+  },
+  "/company-docs/how-to-adjust-email-automation-delay-390": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-how-to-adjust-email-automation-delay-9-f-4-632"
+  },
+  "/company-docs/how-to-modify-collection-date-18d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-how-to-modify-collection-date-7-b-4-653"
+  },
+  "/company-docs/how-to-modify-email-automation-0c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-how-to-modify-email-automationd-52-7c8"
+  },
+  "/company-docs/how-to-modify-or-add-automations-270": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-how-to-modify-or-add-automations-2-bb-788"
+  },
+  "/company-docs/introduction-487": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-introductiona-09-e3c"
+  },
+  "/company-docs/maintenance-fa4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-maintenance-8-da-883"
+  },
+  "/company-docs/make-d8a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-make-2-d-9-007"
+  },
+  "/company-docs/squarespace-cf7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-squarespace-7-bf-174"
+  },
+  "/company-docs/system-overview-bf9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-system-overview-70-f-1c0"
+  },
+  "/company-docs/troubleshooting-8d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-troubleshooting-9-d-9-41e"
+  },
+  "/company-docs/workflow-and-automations-8a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---company-docs-workflow-and-automations-563-6c5"
+  }
+}

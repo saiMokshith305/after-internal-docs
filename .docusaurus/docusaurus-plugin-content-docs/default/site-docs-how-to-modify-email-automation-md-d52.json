@@ -1,0 +1,26 @@
+{
+  "id": "how-to-modify-email-automation",
+  "title": "How to Modify Email Automation",
+  "description": "[Add instructions for modifying email automation here]",
+  "source": "@site/docs/how-to-modify-email-automation.md",
+  "sourceDirName": ".",
+  "slug": "/how-to-modify-email-automation",
+  "permalink": "/company-docs/how-to-modify-email-automation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "how-to-modify-email-automation",
+    "title": "How to Modify Email Automation"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How to Add a New Field to Google Sheet and Update Make & Campaign Monitor",
+    "permalink": "/company-docs/how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor"
+  },
+  "next": {
+    "title": "How to Modify Collection Date",
+    "permalink": "/company-docs/how-to-modify-collection-date"
+  }
+}

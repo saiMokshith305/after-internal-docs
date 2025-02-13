@@ -1,0 +1,26 @@
+{
+  "id": "how-to-modify-or-add-automations",
+  "title": "How to Modify or Add Automations",
+  "description": "[Add instructions for modifying or adding automations here]",
+  "source": "@site/docs/how-to-modify-or-add-automations.md",
+  "sourceDirName": ".",
+  "slug": "/how-to-modify-or-add-automations",
+  "permalink": "/company-docs/how-to-modify-or-add-automations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "how-to-modify-or-add-automations",
+    "title": "How to Modify or Add Automations"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Campaign Monitor",
+    "permalink": "/company-docs/campaign-monitor"
+  },
+  "next": {
+    "title": "How to Add a New Field to Google Sheet and Update Make & Campaign Monitor",
+    "permalink": "/company-docs/how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor"
+  }
+}

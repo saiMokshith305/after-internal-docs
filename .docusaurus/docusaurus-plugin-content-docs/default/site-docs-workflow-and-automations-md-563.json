@@ -1,0 +1,26 @@
+{
+  "id": "workflow-and-automations",
+  "title": "Workflow and Automations",
+  "description": "[Add content for Workflow and Automations here]",
+  "source": "@site/docs/workflow-and-automations.md",
+  "sourceDirName": ".",
+  "slug": "/workflow-and-automations",
+  "permalink": "/company-docs/workflow-and-automations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "workflow-and-automations",
+    "title": "Workflow and Automations"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "System Overview",
+    "permalink": "/company-docs/system-overview"
+  },
+  "next": {
+    "title": "Squarespace",
+    "permalink": "/company-docs/squarespace"
+  }
+}

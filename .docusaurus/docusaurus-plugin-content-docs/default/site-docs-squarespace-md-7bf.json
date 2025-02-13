@@ -1,0 +1,26 @@
+{
+  "id": "squarespace",
+  "title": "Squarespace",
+  "description": "[Add content for Squarespace here]",
+  "source": "@site/docs/squarespace.md",
+  "sourceDirName": ".",
+  "slug": "/squarespace",
+  "permalink": "/company-docs/squarespace",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "squarespace",
+    "title": "Squarespace"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Workflow and Automations",
+    "permalink": "/company-docs/workflow-and-automations"
+  },
+  "next": {
+    "title": "Make",
+    "permalink": "/company-docs/make"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "appendix",
+  "title": "Appendix",
+  "description": "[Add appendix content here]",
+  "source": "@site/docs/appendix.md",
+  "sourceDirName": ".",
+  "slug": "/appendix",
+  "permalink": "/company-docs/appendix",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "appendix",
+    "title": "Appendix"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/company-docs/troubleshooting"
+  }
+}

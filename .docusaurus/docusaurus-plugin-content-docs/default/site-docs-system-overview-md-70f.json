@@ -1,0 +1,26 @@
+{
+  "id": "system-overview",
+  "title": "System Overview",
+  "description": "[Add content for System Overview here]",
+  "source": "@site/docs/system-overview.md",
+  "sourceDirName": ".",
+  "slug": "/system-overview",
+  "permalink": "/company-docs/system-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "system-overview",
+    "title": "System Overview"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/company-docs/introduction"
+  },
+  "next": {
+    "title": "Workflow and Automations",
+    "permalink": "/company-docs/workflow-and-automations"
+  }
+}
